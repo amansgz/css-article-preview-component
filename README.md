@@ -1,12 +1,4 @@
-# 👩‍💻 Frontend Mentor - Article Preview Component
-
-[Frontend Mentor challenges](https://www.frontendmentor.io/) help you improve your coding skills by building realistic projects.
-
-This is a solution for [Article Preview Component](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT) challenge.
-
-
-![Design preview for the Article Preview Component coding challenge](./css/images/preview.png)
-
+# 👩‍💻 Article Preview Component
 
 ## The challenge
 
@@ -25,10 +17,19 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-## Live site solution
+<div>
+  <h3>
+    <a href= "https://amansgz.github.io/css-article-preview-component/">
+      Live site
+    </a>
+    <span> | </span>
+    <a href= "https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-[Live site](https://amansgz.github.io/css-article-preview-component/) deployed with GitHub Pages.
 
-## Author
+![Design preview for the Article Preview Component coding challenge](./css/images/preview.png)
 
-- Frontend Mentor - [@amansgz](https://www.frontendmentor.io/profile/amansgz)
+This application/site was created as a submission to <a href= "https://www.frontendmentor.io/">Frontend Mentor Challenges</a> 
